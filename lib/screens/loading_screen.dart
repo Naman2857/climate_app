@@ -13,7 +13,7 @@ class _LoadingScreenState extends State<LoadingScreen> {
   double long = 0.0;
   double lat = 0.0;
   // var data = '';
-  var apikey = 'cf5e5c1282553ea36bc9884bb335a30b';
+
   @override
   void initState() {
     super.initState();
